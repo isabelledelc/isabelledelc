@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isabelledelc&label=Profile%20views&color=0e75b6&style=flat" alt="isabelledelc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isabelledelc" alt="isabelledelc" /></a> </p>
 
 - 🔭 I’m currently working on **a fighting game called Titan Wars!**
 
